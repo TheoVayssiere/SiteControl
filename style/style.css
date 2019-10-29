@@ -1,28 +1,36 @@
 .background-navbar
 {
-	background-color: #ffffcc;
+	background-color: #ffffFF;
 	height: 90px;
-	display: flex;
+	margin-right: 150px;
+	margin-left: 150px;
+	margin-top: 20px;
+	margin-bottom: 0px;
+	border-style: 10px;
+}
+
+.logo
+{
+	width:77px;
+	height:30px;
+	display: inline-block;
+	margin: 30px 50px;
 }
 
 .menu
 {
 	list-style-type: none;
   	display: inline-block;
+  	float: right;
 }
 
 .elem_menu
 {
 	display: inline-block;
-	width: 100px;
-	padding: 5px;
-	background-color: #FCC9A0;
+	width: 75px;
+	padding: 7px;
+	background-color: #FFFFcc;
 	text-align: center;
-	color: #572700 
-}
-.logo
-{
-	width:77px;
-	height:30px;
-	display: inline-block;
-}
+	color: black;
+	transform: translateX(-150px);
+	margin-top: 15px;
