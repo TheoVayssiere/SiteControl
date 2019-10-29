@@ -1,0 +1,28 @@
+.background-navbar
+{
+	background-color: #ffffcc;
+	height: 90px;
+	display: flex;
+}
+
+.menu
+{
+	list-style-type: none;
+  	display: inline-block;
+}
+
+.elem_menu
+{
+	display: inline-block;
+	width: 100px;
+	padding: 5px;
+	background-color: #FCC9A0;
+	text-align: center;
+	color: #572700 
+}
+.logo
+{
+	width:77px;
+	height:30px;
+	display: inline-block;
+}
