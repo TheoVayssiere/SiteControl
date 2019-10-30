@@ -370,3 +370,56 @@ body
 	margin-right: 10px;
 	margin-bottom: 75px;
 }
+
+.button2
+{
+	border-radius: 50px;
+	position: absolute;
+	height: 35px;
+	width: 100px;
+	background-color: #5168EC;
+	float: center;
+	border:none;
+	color: #FFFFFF;
+	margin-top: 200px; 
+	cursor: pointer;
+	margin-left: 48%;
+}
+
+.integrations
+{
+	display: inline-block;
+	position: absolute;
+	background-color: #71d1dc;
+	height: 350px;
+	width: 100%;
+	margin-top: 250px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+}
+
+.text-integrations
+{
+	position: absolute;
+	margin-left: 150px;
+	margin-top: 100px;
+}
+
+.button3
+{
+	border-radius: 50px;
+	height: 35px;
+	background-color: #FFFFFF;
+	border:none;
+	color: #71d1dc;
+}
+
+.img-integrations
+{
+	position: absolute;
+	margin-top: 75px;
+	margin-left: 1000px;
+	max-width: 75%;
+	max-height: 75%;
+}
